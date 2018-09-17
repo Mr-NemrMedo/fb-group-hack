@@ -11,7 +11,7 @@ or download zip
 
 4 - ls 
 
-5 - cd FB-GROUB-HACK
+5 - cd fb-group-hack
 
 6 - ls 
 
