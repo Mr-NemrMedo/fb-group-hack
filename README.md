@@ -2,10 +2,10 @@
 
 # *how to run the script :  
 
-1 - download it by git clone https://github.com/Mr-NemrMedo/fb-group-hack
+1 - download it by: git clone https://github.com/Mr-NemrMedo/fb-group-hack
 or download zip 
 
-2 - put it in your file with onother your tools and scripts
+2 - put it in your file with another your tools and scripts 
 
 3 - cd ( name file you puted the script in it) 
 
